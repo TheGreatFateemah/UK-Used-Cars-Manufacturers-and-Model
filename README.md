@@ -67,7 +67,7 @@ No Data Modelling was done because the dataset was merged into one table after u
 -	Total tax has the same effect as total price.
 -	There is no correlation between price and mileage.
 
-Interact with the report [here](
+Interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiNDNkZDdhY2QtNTFjNi00MGU2LWEyOGUtNDc5ZTFiOWJkOWQ4IiwidCI6IjA1MDk5ZmE3LWZlMDYtNGE0ZC04MDc5LTNjNDI1ZmU4NzM0YiJ9)
 
 ## Conclusions and Recommendations
 
